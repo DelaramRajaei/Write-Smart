@@ -5,4 +5,4 @@ It acts as a central hub where I organize and archive my work, making it easy to
 # LaTeX libraries
 ## Babel
 The Babel library is a powerful tool for multilingual typesetting in LaTeX, enabling users to incorporate multiple languages and writing systems into their documents easily. With Babel, you can seamlessly switch between different languages, making it a valuable resource for creating documents with diverse linguistic requirements.
-(GitHub)[https://github.com/latex3/babel/tree/main]
+[GitHub](https://github.com/latex3/babel/tree/main)
