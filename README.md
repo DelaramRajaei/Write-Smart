@@ -8,7 +8,7 @@ The Babel library is a powerful tool for multilingual typesetting in LaTeX, enab
 
  The primary reference for Babel includes its source code and an accompanying PDF manual.
 
-- [GitHub](https://github.com/latex3/babel/tree/main):
+- [GitHub](https://github.com/latex3/babel/tree/main)
 
 Additional resources for Babel commands.
 
