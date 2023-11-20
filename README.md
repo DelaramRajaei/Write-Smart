@@ -29,3 +29,6 @@ Additional resources for Babel commands.
 - [orgmode.org](https://orgmode.org/manual/LaTeX-header-and-sectioning.html)
 
 # README
+
+This library is useful for creating basic Markdown and provides extra tips on adding styles in Markdown. This is especially important because GitHub's README doesn't support all inline styles in HTML.
+ - [Handbook Markdown Guide](https://about.gitlab.com/handbook/markdown-guide/Handbook%20Markdown%20Guide)
